@@ -1,11 +1,10 @@
 # Deep_learning
 #Deep_Learning #AI #Data_Science
 
-<a href="https://github.com/Ali-Altamimi/SDAIA_Classification">
+<a>
     <img src="https://www.engineeringbigdata.com/wp-content/uploads/soccer-shootout-game-python-class-methods-objects-loops-functions.jpg" alt="💻 Logo">
   </a>
-(https://www.engineeringbigdata.com/wp-content/uploads/soccer-shootout-game-python-class-methods-objects-loops-functions.jpg)
-
+  
 # Abstract:
 ### The final project of the Data Science Bootcamp T5 is Driver Drowsiness Detection using deep learning Convolutional Neural Networks.
 The project will establish a deep learning model, which will detect face expression of the driver, when the driver’s fatigue is detected, a module issues an alarm, so the driver gets back awareness to prevent any accidents that threats the driver and the public safety.
