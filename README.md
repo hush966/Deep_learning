@@ -9,10 +9,10 @@ The project will establish a deep learning model, which will detect face express
 The used dataset in this project from a public source, Kaggle.
 
 # Tools:
-## Technologies:
+### Technologies:
 - Python
 - Jupyter Notebook
-## Libraries: 
+### Libraries: 
 - Pandas
 - Numpy
 - Matplotlib
@@ -22,6 +22,6 @@ The used dataset in this project from a public source, Kaggle.
 
 
 
-# [Abdullah_Alhuwasiehl](https://github.com/hush966)
-# [Abdalla Alnujaidy](https://github.com/aalnujaidy)
-# [Modhi Alhbrdi](https://github.com/ModiHb)
+### [Abdullah_Alhuwasiehl](https://github.com/hush966)
+### [Abdalla Alnujaidy](https://github.com/aalnujaidy)
+### [Modhi Alhbrdi](https://github.com/ModiHb)
