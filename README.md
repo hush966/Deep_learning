@@ -24,10 +24,11 @@ The used dataset in this project from a public source, Kaggle.
 - Sklearn
 - Keras
 
+**Instructor:** [**Mr. Srinivas Rao**]()
+
 ### contributors:
 
 #### [Abdullah_Alhuwasiehl](https://github.com/hush966)
 #### [Abdalla Alnujaidy](https://github.com/aalnujaidy)
 #### [Modhi Alhbrdi](https://github.com/ModiHb)
 
-**Instructor:** [**Mr. Srinivas Rao**]()
