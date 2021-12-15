@@ -6,7 +6,7 @@
   </a>
   
 # Abstract:
-# The final project of the Data Science Bootcamp T5 is Driver Drowsiness Detection using deep learning Convolutional Neural Networks.
+The final project of the Data Science Bootcamp T5 is Driver Drowsiness Detection using deep learning Convolutional Neural Networks.
 The project will establish a deep learning model, which will detect face expression of the driver, when the driver’s fatigue is detected, a module issues an alarm, so the driver gets back awareness to prevent any accidents that threats the driver and the public safety.
 
 # Dataset:
